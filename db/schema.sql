@@ -1,6 +1,4 @@
 -- [Database schema includes tables labeled “employee,” role,” and “department.”](./Assets/12-sql-homework-demo-01.png)
--- // As the image illustrates, your schema should contain the following three tables:
-
 
 DROP DATABASE IF EXISTS employee_directory_db;
 CREATE DATABASE employee_directory_db;

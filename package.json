@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "12-sql-employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "notsureyet.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanese15/12-SQL-Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanese15/12-SQL-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Vanese15/12-SQL-Employee-Tracker#readme"
+}
