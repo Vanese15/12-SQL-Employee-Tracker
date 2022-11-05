@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
     "inquirer": "^8.2.4",
     "mysql2": "^2.3.3"
   },
@@ -11,7 +12,6 @@
   "description": "",
   "version": "1.0.0",
   "main": "notsureyet.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Vanese15/12-SQL-Employee-Tracker.git"
